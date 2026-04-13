@@ -133,7 +133,7 @@ http://localhost:8080/api/weather/Pune
 
 ## 👨‍💻 Author
 
-Dhananjay Kadale
+Shruti Khete
 
 ---
 
